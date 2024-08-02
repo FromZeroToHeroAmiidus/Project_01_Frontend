@@ -1,7 +1,7 @@
 # AuctionBay
 
 <p style="text-align: center;">
-    <img src="https://github.com/FromZeroToHeroAmiidus/testground/blob/main/ReadMeFiles/landing_page.jpg" alt="Landing Page">
+    <img src="https://github.com/FromZeroToHeroAmiidus/Project_01_Frontend/blob/main/ReadMeFiles/landing_page.jpg" alt="Landing Page">
 </p>
 
 ## SkillUpMentor's Project for Students at Their Practice
@@ -23,17 +23,17 @@ Here's a glimpse into how the database was designed and its relationships:
 - **We had to draw our first ideas for our database (entities, relations ... )**
 
 <p style="text-align: center;">
-    <img src="https://github.com/FromZeroToHeroAmiidus/testground/blob/main/ReadMeFiles/entities_.jpg" alt="Database Schema">
+    <img src="https://github.com/FromZeroToHeroAmiidus/Project_01_Frontend/blob/main/ReadMeFiles/entities_.jpg" alt="Database Schema">
 </p>
 
 - **Relationships and Flow**
 
 <p style="text-align: center;">
-    <img src="https://github.com/FromZeroToHeroAmiidus/testground/blob/main/ReadMeFiles/relations_.jpg" alt="Database Relations">
+    <img src="https://github.com/FromZeroToHeroAmiidus/Project_01_Frontend/blob/main/ReadMeFiles/relations_.jpg" alt="Database Relations">
 </p>
 
 <p style="text-align: center;">
-    <img src="https://github.com/FromZeroToHeroAmiidus/testground/blob/main/ReadMeFiles/bids_.jpg" alt="Database Bids">
+    <img src="https://github.com/FromZeroToHeroAmiidus/Project_01_Frontend/blob/main/ReadMeFiles/bids_.jpg" alt="Database Bids">
 </p>
 
 ### 💡 Project Overview
@@ -62,7 +62,7 @@ For precise UI design, we have received Figma's design. Tried my best that imple
 Huge praise to SkillUpMentor's member Alen Budimir for outstanding work at design.
 
 <p style="text-align: center;">
-    <img src="https://github.com/FromZeroToHeroAmiidus/testground/blob/main/ReadMeFiles/figma.png" alt="Figma Design">
+    <img src="https://github.com/FromZeroToHeroAmiidus/Project_01_Frontend/blob/main/ReadMeFiles/figma.png" alt="Figma Design">
 </p>
 
 ### 🛠️ Technologies Used
